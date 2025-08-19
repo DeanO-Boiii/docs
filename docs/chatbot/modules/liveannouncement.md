@@ -34,7 +34,7 @@ ExampleStreamer is now live! Streaming Fortnite: Late night squad games with fri
 
 2. Custom announcement:
 ```
-🎉 ExampleStreamer just went live! They're playing Minecraft and the stream title is "Building a mega castle - Day 3". Don't miss out!
+I'm live. Come hang out, say hi, lurk, tab and as always...BANGARAAAANG!!!
 ```
 
 ## Parameters
