@@ -29,12 +29,12 @@ When enabled, the Live Announcement module works automatically without any manua
 
 1. Default announcement:
 ```
-ExampleStreamer is now live! Streaming Fortnite: Late night squad games with friends!
+
 ```
 
 2. Custom announcement:
 ```
-🎉 ExampleStreamer just went live! They're playing Minecraft and the stream title is "Building a mega castle - Day 3". Don't miss out!
+DeanO_Boiii just went live. Good vibes only. and as always... BANGARANG!!
 ```
 
 ## Parameters
